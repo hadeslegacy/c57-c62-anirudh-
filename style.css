@@ -1,0 +1,42 @@
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+.lines {
+    height: 6px;
+    background-color: #000;
+    width: 300px;
+    margin: 8px auto;
+}
+
+#chatbots {
+    width: 100%;
+    height: 550px;
+    background-color: aquamarine;
+}
+#games {
+    width: 100%;
+    height: 650px;
+    background-color: yellow;
+}
+#apps {
+    width: 100%;
+    height: 670px;
+    background-color: chartreuse;
+}
+img:hover{
+    transform: scale(0.9);
+}
+img{
+    transition: transform 0.2s;
+}
+#mycara{
+    background-color: greenyellow;
+}
